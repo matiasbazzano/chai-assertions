@@ -1,0 +1,16 @@
+{
+  "name": "chai-assertions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/expect.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.4.1"
+  },
+  "type": "module"
+}
